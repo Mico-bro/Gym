@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0c40ecf8.css",
+    "main.js": "/static/js/main.7bcbcd9d.js",
+    "static/media/6.jpg": "/static/media/6.2e67c25bb5744a0d0222.jpg",
+    "static/media/4.jpg": "/static/media/4.742c19194ce284875271.jpg",
+    "static/media/12.jpg": "/static/media/12.9a984dba3d96ebf8b36c.jpg",
+    "static/media/10.jpg": "/static/media/10.85362937241efef6d3b5.jpg",
+    "static/media/7.jpg": "/static/media/7.3a780f2b34ea6fbfffad.jpg",
+    "static/media/8.jpg": "/static/media/8.932566a3fcd81f051eba.jpg",
+    "static/media/5.jpg": "/static/media/5.f87dcb54ef4d93606f06.jpg",
+    "static/media/home.jpg": "/static/media/home.062f882ebff6ace39676.jpg",
+    "static/media/body.jpg": "/static/media/body.8766a18a0ec345813a9c.jpg",
+    "static/media/14.jpg": "/static/media/14.563a60e862fde9a4c35a.jpg",
+    "static/media/stern.jpg": "/static/media/stern.22b809cda95d57eca14e.jpg",
+    "static/media/low.jpg": "/static/media/low.0142750e15348f1d2998.jpg",
+    "static/media/9.jpg": "/static/media/9.23ea43082056c10ac97f.jpg",
+    "static/media/13.jpg": "/static/media/13.4d3c7ca56de2dbb45d6e.jpg",
+    "static/media/16.jpg": "/static/media/16.8317fbb60105163be9aa.jpg",
+    "static/media/2.jpg": "/static/media/2.a8a4a2ec0e5dedf44fc7.jpg",
+    "static/media/up.jpg": "/static/media/up.a33915393ac8ea4aa040.jpg",
+    "static/media/11.jpg": "/static/media/11.9a72203e95ab2ba485a3.jpg",
+    "static/media/aro.jpg": "/static/media/aro.a762cd4db6c0e5892b30.jpg",
+    "static/media/15.jpg": "/static/media/15.f2a1768391c772388d78.jpg",
+    "static/media/3.jpg": "/static/media/3.a96623c818e02d29c916.jpg",
+    "static/media/1.jpg": "/static/media/1.92802d8fe5f54efc5bb1.jpg",
+    "static/media/yog.jpg": "/static/media/yog.1cb935c80f8cd225b6e7.jpg",
+    "static/media/overweight.png": "/static/media/overweight.d289cb46e9633c985346.png",
+    "static/media/healthy.png": "/static/media/healthy.9343f93bce37d792e548.png",
+    "static/media/underweight.png": "/static/media/underweight.59ea1528911569173fa9.png",
+    "index.html": "/index.html",
+    "main.0c40ecf8.css.map": "/static/css/main.0c40ecf8.css.map",
+    "main.7bcbcd9d.js.map": "/static/js/main.7bcbcd9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c40ecf8.css",
+    "static/js/main.7bcbcd9d.js"
+  ]
+}

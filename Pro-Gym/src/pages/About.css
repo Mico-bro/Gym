@@ -1,0 +1,15 @@
+.abt  {
+  font-family: cursive;
+  margin-left:0px ;
+
+  font-size: 20px;
+  
+  background-color: hwb(30 81% 17% / 0.93);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 20px;
+  padding-bottom: 160px;
+
+}
